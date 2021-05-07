@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* *****************************************************************
+	Theme Name: XXX NOMBRE DEL PROYECTO ACA XXX
+	Theme URI: XXX URL DEL PROYECTO ACA XXX
+	Author: LinkReloaded 
+	Author URI: http://www.linkreloaded.net
+	Description: XXX PEQUEÑA DESCRIPCION DEL PROYECTO ACA XXX
+   	Version: MARK-V | XXX FECHA DE LA PRODUCCION ACA XXX
+   	Producer: XXX NOMBRE DEL PRODUCTOR ACA XXX
+****************************************************************** */
+/* comunes */
+body {background-image: url(img/img_tester980.jpg);}
+.wp-panel{}
+.wp-panel h1{}
+.wp-panel h2{}
+.wp-panel h3{}
+.wp-panel h4{}
+.wp-panel h5{}
+.wp-panel h6{}
+.wp-panel p{}
+.wp-panel ul{}
+.wp-panel li{}
+.wp-panel ol{}
+.wp-panel a{}
+.wp-panel a:hover{}
+.wp-panel strong{}
+.wp-panel em{}

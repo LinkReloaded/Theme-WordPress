@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* *****************************************************************
+Theme Name: bootstrap4 (base)
+Theme URI: http://www.xxx.xx/
+Description: Theme Básico para el desarrollo de sitios, esta construido en bootstrap 4 y algunos plugins
+Author: LinkReloaded
+Author URI: http://www.linkreloaded.net
+Version: 2018-10-09
+****************************************************************** */
+a { transition: all 0.3s ease; text-decoration: none; }
+a:hover, a:focus { transition: all 0.3s ease; text-decoration: none; }
+body { display: flex; min-height: 100vh; flex-direction: column; }
+section#contenido { flex: 1; }
+.container{max-width: 960px;}
+img.imagen-fluida{display: block; width: 100%; height: auto;}
+@media (max-width:767px) {}
+@media (min-width:768px) and (max-width:979px) {}
+/* test css BORRAR */
+h6.bold{font-family: 'OpenSansCondensedBold' }
+h6.regular{font-family: 'OpenSansRegular' }
+h6.light{font-family: 'OpenSansLight' }

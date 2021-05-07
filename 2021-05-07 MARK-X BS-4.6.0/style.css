@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* *****************************************************************
+Theme Name: CURRENT THEME
+Theme URI: http://www.xxx.xx/
+Description: Theme para el sitio web de...
+Author: Animal Creativo
+Author URI: https://www.animalcreativo.cl
+Version: xx/xx/xxxx
+****************************************************************** */
+/* FONTS */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+/* COMMON STYLES */
+a { transition: all 0.3s ease; text-decoration: none; }
+a:hover, a:focus { transition: all 0.3s ease; text-decoration: none; }
+body { display: flex; min-height: 100vh; flex-direction: column; font-family: 'Open Sans', sans-serif;}
+section#contenido { flex: 1; }
+@media (max-width:767px) {}
+@media (min-width:768px) and (max-width:979px) {}

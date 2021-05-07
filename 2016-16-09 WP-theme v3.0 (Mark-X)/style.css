@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* *****************************************************************
+Theme Name: XXXXXXXXXXXXXXXXXXXXXXXXXX
+Theme URI: XXXXXXXXXXXXXXXXXXXXXXXXXXX
+Description: XXXXXXXXXXXXXXXXXXXXXXXXX
+Author: LinkReloaded
+Author URI: http://www.linkreloaded.net
+Version: 20180130 | xx/xx/xxxx
+****************************************************************** */
+.wp-panel h1 { }
+.wp-panel h2 { }
+.wp-panel h3 { }
+.wp-panel h4 { }
+.wp-panel h5 { }
+.wp-panel h6 { }
+.wp-panel p { margin: 0 0 9px !important; }
+.wp-panel ul { padding-left: 15px !important; }
+.wp-panel ol { padding-left: 0px !important; display: list-item !important; }
+.wp-panel a { }
+.wp-panel img { width: 100%; height: auto; display: block; }
+#shadowBoxHome img { display: block; height: auto; width: 100%; }
+@media (max-width:767px) {
+}
+@media (min-width:768px) and (max-width:979px) {
+}
